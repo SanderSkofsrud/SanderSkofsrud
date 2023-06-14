@@ -12,7 +12,7 @@ Kanskje hvis tallet blir litt høyere...
 ---
 
 ### :man_technologist: About Me :
-I am a Computer Science Engineer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway
+I am a Computer Science Engineer student from Norway
 - :telescope: I’m studying to become a computer science engineer at NTNU.
 
 <!--
