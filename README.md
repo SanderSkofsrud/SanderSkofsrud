@@ -15,10 +15,7 @@ Kanskje hvis tallet blir litt høyere...
 I am a Computer Science Engineer student from Norway
 - :telescope: I’m studying to become a computer science engineer at NTNU.
 
-<!--
-TODO: Lag linkedin
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url).
--->
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sander-rom-skofsrud-a47522280).
 
 ---
 
