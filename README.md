@@ -11,7 +11,7 @@ Kanskje hvis tallet blir litt høyere...
 
 ---
 
-### :man_technologist: About Me :
+### 👨‍💻 About Me :
 I am a Computer Science Engineer student from Norway
 - :telescope: I’m studying to become a computer science engineer at NTNU.
 <!--
@@ -19,7 +19,7 @@ I am a Computer Science Engineer student from Norway
 -->
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -35,10 +35,9 @@ I am a Computer Science Engineer student from Norway
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanderSkofsrud&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanderSkofsrud&show_icons=true&theme=transparent)
 Er ikke noe å flekse her enda akuratt.
